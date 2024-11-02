@@ -1,6 +1,6 @@
-<p>This is the first version of the&nbsp;<strong>Arbovirus&eacute;s DHIS-2 module</strong>.<br />
+<p>This is the first version of the&nbsp;<strong>Electronic Immunization Registry (EIR) DHIS-2 module</strong>.<br />
 <br />
-The module includes:</p>
+The module is based on tracker and includes:</p>
 
 <ol>
 	<li>Electronic Immunization Registration Form</li>
@@ -18,17 +18,17 @@ The module includes:</p>
 	<li>Basic information of the health status of the person.</li>
 </ul>
 
-<h3>AAppointments for future vaccinations/h3>
+<h3>Appointments for future vaccinations</h3>
 
-<p>This form provides the opportunity to add future appoitments for the person.</p>
+<p>This tab provides the opportunity to add future appoitments for the person.</p>
 
-<h3>Adverse Event Reporting/h3>
+<h3>Adverse Event Reporting</h3>
 
-<p>This form collects information on adverse events possibly attributable to vaccination for the person</p>
+<p>This tab collects information on adverse events possibly attributable to vaccination for the person</p>
 
 
 <p>&nbsp;</p>
 
 <h3>Contributions</h3>
 
-<p>This was developed for the Dominica Ministry of Health through the technical support of the Pan American Health Organization/World Health Organization (PAHO/WHO). The module was developed by Open Solutions (<a href="https://www.opensolutions.health/" rel="nofollow">https://www.opensolutions.health/</a>). The module was developed under the grant and financial support from&nbsp;<em>&#39;European Commission for Implementation of the Action European Union - WHO Health Systems Strengthening for Universal Healthcare Coverage&#39;</em>.</p>
+<p>This was developed for the Dominica Ministry of Health through the technical support of the Pan American Health Organization/World Health Organization (PAHO/WHO). The module was developed by Open Solutions (<a href="https://www.opensolutions.health/" rel="nofollow">https://www.opensolutions.health/</a>). The module was developed under the grant and financial support from&nbsp;<em>&#39;USAID&#39;</em>.</p>
